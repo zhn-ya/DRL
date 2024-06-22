@@ -1,0 +1,1 @@
+This project is a deep reinforcement learning project based on ros, where a model is trained based on ros gazebo and deployed to turtlebot3 , using CBF combined with reinforcement learning.
